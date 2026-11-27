@@ -154,7 +154,7 @@ var APP_DATA = {
       ]
     }
   ],
-  "name": "Project Title",
+  "name": "shop",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
